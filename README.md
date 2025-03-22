@@ -1,8 +1,5 @@
 <h1>Network File Shares and Permissions</h1>
 
-![]()
-
-
 <h2>Description</h2>
 This project demonstrates setting up file shares with varying permissions and managing access controls in an Azure Active Directory environment. It includes configuring shared folders, testing user access, and using Active Directory security groups to manage access to resources.
 <br />
