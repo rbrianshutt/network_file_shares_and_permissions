@@ -54,7 +54,7 @@ On DC-1, on the C:\ drive, create 4 folders: <br />
 ![](https://github.com/rbrianshutt/network_file_shares_and_permissions/blob/main/Network%20File%20Shares%20and%20Permissions/3%20create%20folders%20on%20c.PNG)
 <br />
 
-<h3>Set permissions for read access/h3>
+<h3>Set permissions for read access</h3>
 
 Right click on the read-access folder and click Properties <br/>
 
